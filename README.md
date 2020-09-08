@@ -1,3 +1,3 @@
 # A Blog-Website 
-using  Nodejs Ejs nad Expressjs 
+using  Nodejs Expressjs MongoDB and EJS , Mongoose
 This is version 1
